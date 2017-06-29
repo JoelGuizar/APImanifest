@@ -19,6 +19,10 @@
   "homepage": "https://github.com/JoelGuizar/APImanifest#readme",
   "dependencies": {
     "express": "^4.15.3",
+    "mongoose": "^4.11.0",
     "react": "^15.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
