@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 const CP = require('cookieparser');
 const BP = require('bodyparser');
+const yo = require('./controller.js');
 
 app.CP();
 app.BP();
